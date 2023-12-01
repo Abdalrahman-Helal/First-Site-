@@ -1,0 +1,63 @@
+.main{
+    background-image: url(Photos/bgop.png);
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:black;
+    padding:35px;
+    /* background-image: url(Photos/log.png); */
+    
+}
+
+h2{
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    font-size: xx-large;
+    background-color:   rgb(138, 25, 138);
+}
+table{
+    border: 10px solid;
+    border-color:  black ;
+    border-spacing: 20px;
+}
+i{
+    color: whitesmoke;
+}
+td{
+    border: 5px solid purple;
+    border-color:  black purple ;
+
+}
+table{
+    background-color: whitesmoke;
+    /* background-image: url(Photos/log.png); */
+    background-color: rgba(255, 255, 255, 0.849);
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+figcaption{
+    background-color: rgba(138, 25, 138, 0.644);
+    font-size: large;
+    
+}
+b{
+    color: black;
+}
+a{
+    color: bisque;
+}
+
+a:hover
+{
+    color: crimson ;
+}
